@@ -4,7 +4,13 @@ This repository contains a sample MVVM-C template for SwiftUI.
 
 This repository serves as the foundational code for the accompanying blog post.[The MVVM-C Blueprint for iOS Apps](https://javios.eu/swift/harnessing-nfc-technology-in-your-ios-app/) 
 
-En github README.md como hacer un diagrama 
+```mermaid
+graph TD;
+    A[Tab1Flow] --> B1[Secondary View 1];
+    A[Tab1Flow] --> B2[Secondary View 2];
+    B1 --> C[Tertiany View];
+    C --> A;
+```
 
 ## 🎥 Demo Video
 
