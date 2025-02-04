@@ -16,7 +16,7 @@ graph TD;
 - Second Tab Flow
 ```mermaid
 graph TD;
-    A[Tab2Flow] --> B[Secondary View];
+    A[Tab2Flow] --> B[Primary View];
     B --> C[Modal View];
 ```
 
