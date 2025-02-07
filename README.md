@@ -2,7 +2,7 @@
 # MVVM-C iOS Sample tampalte
 This repository contains a sample MVVM-C template for SwiftUI. 
 
-This repository serves as the foundational code for the accompanying blog post.[The MVVM-C Blueprint for iOS Apps](https://javios.eu/swift/the-mvvm-c-blueprint-for-ios-apps/) 
+This repository serves as the foundational code for the accompanying blog post. [The MVVM-C Blueprint for iOS Apps](https://javios.eu/swift/the-mvvm-c-blueprint-for-ios-apps/) 
 
 
 
